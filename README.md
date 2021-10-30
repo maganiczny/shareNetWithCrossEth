@@ -4,7 +4,7 @@ Own public cheat sheet
 
 To share network over LAN You need crossed Ethernet cable (You can find what it do in www) and two computer (PC, laptop, other who have eth sock).
 
-PC 1# who share net and have net connecyion
+PC 1# who share net and have net connection
 PC 2# who need network
 
 In Windows:
